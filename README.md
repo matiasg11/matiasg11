@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/matiasg11](https://github.com/matiasg11)
 
-- I'm trying to do once Codewars Kata a day [https://github.com/matiasg11/CodeWarsSolutions](https://github.com/matiasg11/CodeWarsSolutions)
+- I'm trying to do at least 1 Codewars' Kata a day [https://github.com/matiasg11/CodeWarsSolutions](https://github.com/matiasg11/CodeWarsSolutions)
 
 - Or if you want to get in touch with me: **matiasguarnera@gmail.com**
 
