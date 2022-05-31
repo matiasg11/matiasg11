@@ -5,7 +5,7 @@
 
 - I’m currently working as a software engineer in **#100Devs**
 
-- You can contact me on Twitter **@matiasguarnera**
+- You can contact me on Twitter **@matiasguarnera** or e-mail **matiasguarnera@gmail.com**
 
 - I’m looking to collaborate on **open source projects**
 
